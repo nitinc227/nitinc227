@@ -1,6 +1,5 @@
 # Nitin Chaurasia - Personal Website
 
-![Profile Picture](https://github.com/yourusername/yourimage.png)  <!-- Replace with your GitHub image link -->
 
 Hello! I'm **Nitin Chaurasia**, an engineering student with a passion for science, technology, and problem-solving. I have a strong background in computer hardware, networking, and software development. I'm always seeking opportunities to apply my technical knowledge in challenging environments.
 
